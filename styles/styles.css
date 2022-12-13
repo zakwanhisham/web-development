@@ -1,0 +1,43 @@
+html {
+  font-size: 10px;
+  font-family: "JetBrains Mono", monospace;
+  background-color: blanchedalmond;
+}
+
+body {
+  width: 600px;
+  margin: 0 auto;
+  background-color: thistle;
+  padding: 0 20px 20px 20px;
+  border: 5px solid darkslateblue;
+}
+
+h1 {
+  font-size: 60px;
+  text-align: center;
+  margin: 0;
+  padding: 20px 0;
+  color: coral;
+  text-shadow: 3px 3px 1px black;
+}
+
+h2 {
+  font-size: 16px;
+  text-align: center;
+}
+
+p,
+li {
+  font-size: 16px;
+  line-height: 1;
+  /* letter-spacing: 1px; */
+}
+
+div {
+  text-align: center;
+}
+
+img {
+  width:50%;
+  height: 50%;
+}
