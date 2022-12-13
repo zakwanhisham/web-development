@@ -4,7 +4,7 @@ This is a mdn web development lesson from https://developer.mozilla.org/en-US/do
 
 To run it, we need:
 
-```bash
+```shell
 python -m http.server 69420
 ```
 
